@@ -1,1 +1,1 @@
-# Promotion-analytics-using-Constrained-Maximization-Model
+# Promotion-Budget-Allocation-using-Linear-Maximization-Model
