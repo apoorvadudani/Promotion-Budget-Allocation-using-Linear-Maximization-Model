@@ -13,6 +13,8 @@ After analyzing historic sales and promotion data, I assemble the data in the ta
 
 I face some promotion constraints, or conditions that limit the number of solutions to problems while executing promotion campaigns for the restaurant. Firstly, there is a maximum allowable budget that can be spent each month on promotions. Secondly, due to limited capacity (ability to produce) of the promotion service I use, I cannot create more than a certain number of new campaigns per month.
 
+The promotion objective is to maximize audience exposure.
+
 ![image](https://user-images.githubusercontent.com/113878059/228691973-9b0a4042-3c4d-46e5-84fc-7c491030c8d8.png)
 
 ## Data analysis model
@@ -22,6 +24,12 @@ In promotion budget allocation, we aim to maximize the effectiveness of our prom
 The promotion allocation model uses linear optimization to calculate the optimum allocation of budget across different promotion vehicles. Once the goals of the promotional campaign are identified and promotional constraints are defined, we then calculate the vehicle contribution, which is the amount of results generated per use of the vehicle. Then, the model takes an objective function and constraint equations as inputs, and delivers the maximized objective and other information as outputs upon execution.
 
 Considering that we have all of this prerequisite data available, linear optimization model for promotion allocation is the best method to follow through with.
+
+## Developing  the objective equation
+
+## Develop relevant constraints equations
+
+## Executing the model
 
 ## Analysis and Insight
 
