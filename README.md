@@ -2,7 +2,7 @@
 
 ## Background 
 
-I am the marketing manager for a new fine dining restaurant in San Francisco, Acme Restaurant(fictitious). Acme’s top entrees include:
+Exciting news! A new fine dining restaurant, Acme Restaurant(fictitious), has opened its doors to the public in San Francisco. Acme’s top entrees include:
 - Dish A: Braised Alaskan wild salmon with rice pilaf and grilled asparagus
 
 ![image](https://user-images.githubusercontent.com/113878059/228697376-35566f12-27c6-4c1d-b41a-55bf9289f246.png)
@@ -35,7 +35,9 @@ The promotion allocation model uses linear optimization to calculate the optimum
 
 Considering that we have all of this prerequisite data available, linear optimization model for promotion allocation is the best method to follow through with.
 
-## Developing  the objective equation
+## Developing the objective equation
+
+
 
 ## Develop relevant constraints equations
 
