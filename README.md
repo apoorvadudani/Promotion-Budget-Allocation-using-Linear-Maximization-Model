@@ -2,16 +2,16 @@
 
 ## Background 
 
-I are the marketing manager for a new fine dining restaurant in San Francisco, Acme Restaurant(fictitious). Acme’s top entrees include:
- Dish A: Braised Alaskan wild salmon with rice pilaf and grilled asparagus
- Dish B: Grass-fed organic beef tenderloin with baked potato and sautéed mushrooms in Cabernet sauce
- Dish C: Vegetable melee, with red and green peppers, organic beets and artichoke hearts, over a bed of spinach, served with a spicy balsamic vinaigrette
+I am the marketing manager for a new fine dining restaurant in San Francisco, Acme Restaurant(fictitious). Acme’s top entrees include:
+- Dish A: Braised Alaskan wild salmon with rice pilaf and grilled asparagus
+- Dish B: Grass-fed organic beef tenderloin with baked potato and sautéed mushrooms in Cabernet sauce
+- Dish C: Vegetable melee, with red and green peppers, organic beets and artichoke hearts, over a bed of spinach, served with a spicy balsamic vinaigrette
 
 I use three promotion vehicles to drive business to Acme. The first tool is Facebook (F) to promote discussion of local restaurants in the community. The second tool is Groupon (G) to increase trial rate of new customers. The third tool is Yelp (Y) to show customer ratings.
 
-After analyzing historic sales and promotion data, I assemble the data shown below. I gain a certain number of viewers per each campaign, and the viewers are provided by the promotion vehicle analytics. Each campaign costs a certain amount, and the cost is provided by the monthly bill for services. 
+After analyzing historic sales and promotion data, I assemble the data in the table shown below. I gain a certain number of viewers per each campaign, and the viewers are provided by the promotion vehicle analytics. Each campaign costs a certain amount, and the cost is provided by the monthly bill for services. 
 
-I face some promotion constraints, or conditions that limit the number of solutions to problems while executing promotion campaigns. Firstly, there is a maximum allowable budget that can be spent each month on promotions. Secondly, due to limited capacity (ability to produce) of the promotion service I use, I cannot create more than a certain number of new campaigns per month.
+I face some promotion constraints, or conditions that limit the number of solutions to problems while executing promotion campaigns for the restaurant. Firstly, there is a maximum allowable budget that can be spent each month on promotions. Secondly, due to limited capacity (ability to produce) of the promotion service I use, I cannot create more than a certain number of new campaigns per month.
 
 ![image](https://user-images.githubusercontent.com/113878059/228691973-9b0a4042-3c4d-46e5-84fc-7c491030c8d8.png)
 
@@ -19,7 +19,9 @@ I face some promotion constraints, or conditions that limit the number of soluti
 
 In promotion budget allocation, we aim to maximize the effectiveness of our promotional efforts (our promotional objectives) for a given budget (our promotion constraint). 
 
-The promotion allocation model uses linear optimization to calculate the optimum allocation of budget across different promotion vehicles. Once the goals of the promotional campaign are identified and promotional constraints are defined, we calculate the vehicle contribution, which is the amount of results generated per use of the vehicle. Then, the model takes an objective function and constraint equations as inputs, and delivers the maximized objective and other information as outputs upon execution.
+The promotion allocation model uses linear optimization to calculate the optimum allocation of budget across different promotion vehicles. Once the goals of the promotional campaign are identified and promotional constraints are defined, we then calculate the vehicle contribution, which is the amount of results generated per use of the vehicle. Then, the model takes an objective function and constraint equations as inputs, and delivers the maximized objective and other information as outputs upon execution.
+
+Considering that we have all of this prerequisite data available, linear optimization model for promotion allocation is the best method to follow through with.
 
 ## Analysis and Insight
 
