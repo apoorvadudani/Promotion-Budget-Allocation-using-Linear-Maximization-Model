@@ -37,7 +37,13 @@ Considering that we have all of this prerequisite data available, linear optimiz
 
 ## Developing the objective equation
 
+*Z = 30 * F + 30 * G + 40 * Y*
 
+The equation applies the following variables:
+- Z = Our objective, in this case the total number of audience impressions from all promotion vehicles.
+- F = Quantity of Facebook campaigns to run, given that each direct marketing campaign results in 30 viewers per advertisement. 
+- G = Quantity of Groupon campaigns to run, with 30 viewers per campaign.  
+- Y = Quantity of Yelp media campaigns to run, with 40 viewers per campaign
 
 ## Develop relevant constraints equations
 
