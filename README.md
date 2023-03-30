@@ -43,9 +43,22 @@ The equation applies the following variables:
 - Z = Our objective, in this case the total number of audience impressions from all promotion vehicles.
 - F = Quantity of Facebook campaigns to run, given that each direct marketing campaign results in 30 viewers per advertisement. 
 - G = Quantity of Groupon campaigns to run, with 30 viewers per campaign.  
-- Y = Quantity of Yelp media campaigns to run, with 40 viewers per campaign
+- Y = Quantity of Yelp campaigns to run, with 40 viewers per campaign
 
-## Develop relevant constraints equations
+## Develop relevant constraints equation
+
+*B = 30 * F + 40* G + 60 * Y*
+B < 2000
+F < 30
+G < 20
+Y < 10
+
+The equation applies the following variables:
+B = Our monthly budget
+F = Quantity of Facebook campaigns, which cost $30 each to run.
+G = Quantity of Groupon campaigns, which cost $20 each to run.
+Y = Quantity of Yelp campaigns, which cost $10 each to run.
+≤ = Inequality sign, indicating that we may not exceed our maximum budget.
 
 ## Executing the model
 
