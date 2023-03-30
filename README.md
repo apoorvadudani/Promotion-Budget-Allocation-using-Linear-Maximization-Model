@@ -4,8 +4,18 @@
 
 I am the marketing manager for a new fine dining restaurant in San Francisco, Acme Restaurant(fictitious). Acme’s top entrees include:
 - Dish A: Braised Alaskan wild salmon with rice pilaf and grilled asparagus
+
+![image](https://user-images.githubusercontent.com/113878059/228697376-35566f12-27c6-4c1d-b41a-55bf9289f246.png)
+
+
 - Dish B: Grass-fed organic beef tenderloin with baked potato and sautéed mushrooms in Cabernet sauce
+
+![image](https://user-images.githubusercontent.com/113878059/228697486-6f0e53fd-65c5-4b3e-be6c-6277809256f5.png)
+
+
 - Dish C: Vegetable melee, with red and green peppers, organic beets and artichoke hearts, over a bed of spinach, served with a spicy balsamic vinaigrette
+
+![image](https://user-images.githubusercontent.com/113878059/228697549-28c94f8d-00d8-4287-9b51-6b56e684197f.png)
 
 I use three promotion vehicles to drive business to Acme. The first tool is Facebook (F) to promote discussion of local restaurants in the community. The second tool is Groupon (G) to increase trial rate of new customers. The third tool is Yelp (Y) to show customer ratings.
 
