@@ -2,7 +2,7 @@
 
 ## Background 
 
-Exciting news! A new fine dining restaurant, Acme Restaurant(fictitious), has opened its doors to the public in San Francisco. Acme’s top entrees include:
+Exciting news! A new fine dining restaurant, Acme Restaurant (fictitious), has opened its doors to the public in San Francisco. Acme’s top entrees include:
 - Dish A: Braised Alaskan wild salmon with rice pilaf and grilled asparagus
 
 ![image](https://user-images.githubusercontent.com/113878059/228697376-35566f12-27c6-4c1d-b41a-55bf9289f246.png)
@@ -88,4 +88,3 @@ References
 1. Magda, George. (2017). “Success using Foursquare vs. Groupon for Dealerships Today.” georgemagda.com. http://www.georgemagda.com/2011/08/success-using-foursquare-vs-grupon-for.html
 
 2. Business Insider. (2017) “BII Report: Why Location-based Services Like Groupon Now and Foursquare Are Going to Be Big Businesses.” businessinsider.com..http://www.businessinsider.com/special-report-why-location-based-services-like-groupon-now-and-foursquare-are-going-to-be-big-businesses-2012-7
-![image](https://user-images.githubusercontent.com/113878059/228693909-569470a3-9a16-4d9c-814d-2f998eb848cc.png)
