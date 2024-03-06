@@ -5,8 +5,7 @@
 Exciting news! A new fine dining restaurant has opened its doors to the public in San Francisco. Acme’s top entrees include:
 - Dish A: Braised Alaskan wild salmon with rice pilaf and grilled asparagus
 
-![image](https://user-images.githubusercontent.com/113878059/228697376-35566f12-27c6-4c1d-b41a-55bf9289f246.png)
-
+![image](https://github.com/apoorvadudani/Promotion-Budget-Allocation-using-Linear-Maximization-Model/assets/113878059/13d7d395-3ad5-4283-979a-7b20d68752ac)
 
 - Dish B: Grass-fed organic beef tenderloin with baked potato and sautéed mushrooms in Cabernet sauce
 
