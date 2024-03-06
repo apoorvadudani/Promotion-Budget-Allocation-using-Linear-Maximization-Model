@@ -62,7 +62,6 @@ Y = Quantity of Yelp campaigns, which cost $10 each to run.
 
 ## Analysis and Insight
 
-Findings
 1.The condition is not optimum. Y faces a surplus of capacity. 
 
 2. The data in the case suggests that Facebook is a more cost-effective method for gaining impressions. Its cost-effectiveness does not necessarily indicate the ability to increase sales, or even the ability to drive traffic to the restaurant. 
