@@ -2,7 +2,7 @@
 
 ## Background 
 
-Exciting news! A new fine dining restaurant, Acme Restaurant (fictitious), has opened its doors to the public in San Francisco. Acme’s top entrees include:
+Exciting news! A new fine dining restaurant has opened its doors to the public in San Francisco. Acme’s top entrees include:
 - Dish A: Braised Alaskan wild salmon with rice pilaf and grilled asparagus
 
 ![image](https://user-images.githubusercontent.com/113878059/228697376-35566f12-27c6-4c1d-b41a-55bf9289f246.png)
